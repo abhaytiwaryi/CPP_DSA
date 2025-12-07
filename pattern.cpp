@@ -2,10 +2,9 @@
 using namespace std;
 
 int main(){
-
     for(int i=0;i<3;i++){
-        for(int j=1;j<=6;j++){
+        for(int j=0;j<6;j++){
             cout<<"*"<<" ";
-        }
+        }cout<<endl;
     }
 }
