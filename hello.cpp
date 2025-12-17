@@ -2,5 +2,5 @@
 using namespace std;
 
 int main(){
-    cout<<"Here's all my codes of DSa"<<endl;
+    cout<<"Here's all my codes of Dsa"<<endl;
 }
